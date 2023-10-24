@@ -209,7 +209,7 @@ def example_13_1():
     ax.set_ylim(ymin=-105.0, ymax=5)
     ax.legend()
 
-    plt.savefig('../images/example_13_1.png')
+    plt.savefig('D:\QT\pytorch_tutorial\tutorial\RL_DeepMind x UCL_2021\reinforcement-learning-an-introduction\images\example_13_1.png')
     plt.close()
 
 def figure_13_1():
@@ -237,7 +237,7 @@ def figure_13_1():
     plt.xlabel('episode')
     plt.legend(loc='lower right')
 
-    plt.savefig('../images/figure_13_1.png')
+    plt.savefig('tutorial\RL_DeepMind x UCL_2021\reinforcement-learning-an-introduction\images\example_13_1.png')
     plt.close()
 
 def figure_13_2():
@@ -264,7 +264,7 @@ def figure_13_2():
     plt.xlabel('episode')
     plt.legend(loc='lower right')
 
-    plt.savefig('../images/figure_13_2.png')
+    plt.savefig('D:\QT\pytorch_tutorial\tutorial\RL_DeepMind x UCL_2021\reinforcement-learning-an-introduction\images\example_13_1.png')
     plt.close()
 
 if __name__ == '__main__':
